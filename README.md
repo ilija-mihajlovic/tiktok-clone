@@ -1,4 +1,4 @@
-## Welcome to the TikTok clone repository!
+## Welcome to my TikTok clone repository!
 
 This repository contains the code for a TikTok clone built with Next.js, Tailwind CSS, and Sanity. The app allows users to create and share short videos, as well as interact with other users through likes, comments, and followers.
 
